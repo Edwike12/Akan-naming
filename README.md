@@ -21,8 +21,8 @@ You will input your details on the boxes
 
 ##### Setup Instructions and Installation
 
-clone this repository https://github.com/Edwike12/programming-portfolio.git
-open terminal to work in programmimg-portfolio  directory
+clone this repository https://github.com/Edwike12/Akan-naming.git
+open terminal to work in Akan-naming  directory
 open idex.html in your browser
 
 
@@ -46,6 +46,9 @@ If you find a bug (the website couldn't handle the query and or gave undesired r
 
 If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
 
+
+# Contact Information
+edwike.nyauncho@student.moringaschool.com
 
 ### License
 
