@@ -1,10 +1,11 @@
 # Project-Name
 Programming-portfolio
 
-Landing page for my programming portfolio. Using html, CSS and bootstrap
+# Description
+This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 
 
-# 
+# BDD
 - Enter your birthday details
 You will input your details on the boxes
 -Choose your gender either Male or Female field provided since your akan name will be output only when you have provided the gender and your valid dates so you need to understand that the gender section is important.
