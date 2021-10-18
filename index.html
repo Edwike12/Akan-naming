@@ -29,7 +29,7 @@
     </label>
 
     <br>
-    <label for="gender">
+    <label for="gender"> <br>
         gender:select gender here<br>
         male:
         <input id="male-input" type="radio" name="gender" value="male" required>
@@ -38,18 +38,20 @@
     </label>
 
     <br>
-    <input id="get-name" type="submit" name="" value="outputs-name">
+    <input id="get-name" type="submit" name="" value="Submit">
     </form>
 
-    <form onsubmit="return clearValue()">
-    <input class="clear" type="submit" value="clear value">
+    <form onsubmit="return clearInput()">
+    <input class="clear" type="submit" value="clear input">
     </form>
 
-    <p id="result"></p>
+    <h3 id = "display-name" > <i>YOUR AKAN NAME IS:</i></h3>
+    <p id = "result"></p>
 
     </div>
 </div>
 
 <script src="script/script.js"></script>
+
 </body>
 </html>
