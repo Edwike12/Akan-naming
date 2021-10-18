@@ -14,3 +14,7 @@ h1{
     width: 70%; 
     margin: auto;
 }
+  
+  #result{
+    text-align: center;
+  }
