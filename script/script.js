@@ -14,3 +14,15 @@ function getGender(){
 }
 let myGenderValue = getGender();
 console.log(myGenderValue);
+
+//month function
+function monthValue (){
+    if (monthOfBirth < 1 ||monthOfBirth > 12){
+        return false;
+} else{
+    return true;
+}
+}
+
+//date validation function
+
